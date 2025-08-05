@@ -17,7 +17,7 @@
         <td rowspan="2" align="center"><a href="https://github.com/MandeepKarki12#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepKarki12&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/MandeepKarki12#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepKarki12&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/dkc1549#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dkc1549&theme=default"/></a><a href="https://github.com/dkc1549#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dkc1549&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Mandeepkarki12#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepKarki12&theme=default"/></a><a href="https://github.com/MandeepKarki12#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepKarki12&theme=tokyonight"/></a></td>
     </tr>
     
 </table>
